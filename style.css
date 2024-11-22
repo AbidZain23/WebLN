@@ -83,6 +83,6 @@ button{
     cursor: pointer;
 }
 body{position: absolute;
-    background-image: url(/Practice/LN/background.jpg);
+    background-image: url(background.jpg);
     background-color: #cccccc;
 }
